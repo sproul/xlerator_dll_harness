@@ -1,2 +1,1 @@
-# xlerator_dll_harness
-Wrapper for testing aspects of XLerator DLL
+Tool to test and call XLerator DLL to calculate bond yields across a variety of conditions, varying basis, frequency and maturity dates.
